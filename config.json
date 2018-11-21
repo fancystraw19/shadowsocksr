@@ -14,8 +14,6 @@
     "udp_timeout": 400,
     "dns_ipv6": false,
     "redirect": "",
-    "speed_limit_per_con": 2048,
-    "speed_limit_per_user": 2048,
     "fast_open": false,
     "workers":1
 }
